@@ -1,2 +1,2 @@
-# resume
-My online resume
+# Online Resume
+[Click here to see](http://nisan-ozorten.github.io/resume).
